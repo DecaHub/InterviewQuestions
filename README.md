@@ -123,7 +123,7 @@ Compendium of Questions I have been asked during Interviews.
 * Extract the numbers of a phone number.
 
 
-## Angular
+## AngularJS
 
 ### Architecture
 * What is Angular?
